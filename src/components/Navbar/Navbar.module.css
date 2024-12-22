@@ -1,0 +1,17 @@
+.navbar {
+  background: #EEE;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: #000;
+}
+.navbar a {
+  color: #000;
+}
+.navbar button {
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+}

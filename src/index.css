@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #222;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+}
+input, textarea {
+  padding: 8px;
+  border: 1px solid #333;
+  background: #333;
+  color: #fff;
+}
+input:focus, textarea:focus {
+  outline: none;
+  border-color: #555;
+}

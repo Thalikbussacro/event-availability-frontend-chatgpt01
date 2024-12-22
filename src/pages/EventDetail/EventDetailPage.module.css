@@ -1,0 +1,12 @@
+.container {
+  padding: 20px;
+}
+.availabilityForm {
+  margin-top: 20px;
+}
+.availabilityForm form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  gap: 10px;
+}
